@@ -1,0 +1,1 @@
+package2@ git+https://github.com/toransahu/python-mono-repo@aa242c5bb7ea1410ad6868b624a96adc81789854#subdirectory=project-2/src
